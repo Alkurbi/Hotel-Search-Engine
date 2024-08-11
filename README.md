@@ -5,3 +5,6 @@
 * Semantic Search: Uses pre-trained embeddings to understand the meaning behind user queries and match them with relevant hotel information.
 * BM25 Ranking: Enhances search results by incorporating the BM25 algorithm, which ranks results based on term frequency and document length.
 * Gradio Interface: User-friendly interface to interact with the chatbot and receive detailed hotel information, including images, descriptions, and ratings.
+
+## Try it on Huggingface
+![alt text](https://github.com/Alkurbi/Hotel-Search-Engine/blob/main/Demo.png?raw=true)
