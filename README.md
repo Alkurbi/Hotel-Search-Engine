@@ -6,5 +6,5 @@
 * BM25 Ranking: Enhances search results by incorporating the BM25 algorithm, which ranks results based on term frequency and document length.
 * Gradio Interface: User-friendly interface to interact with the chatbot and receive detailed hotel information, including images, descriptions, and ratings.
 
-## Try it on Huggingface
+## Try it on [Huggingface](https://huggingface.co/spaces/tuwaiq-allam/Group1-Hotel_Search)
 ![alt text](https://github.com/Alkurbi/Hotel-Search-Engine/blob/main/Demo.png?raw=true)
